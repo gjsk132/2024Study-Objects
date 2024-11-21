@@ -1,4 +1,4 @@
-# 📖 2024-2학기 WAP [오브젝트: 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/) 리딩 스터디
+## 📖 2024-2학기 WAP [오브젝트: 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/) 리딩 스터디
 
 <p align="center">
   <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158391409.jpg">
